@@ -3,6 +3,7 @@ Assignment 1 (Bonus) for my Artificial Intelligence course
 
 ## Information
 Name: Tretin Raney
+
 700#: 700721956
 
 ## Assignment Information
